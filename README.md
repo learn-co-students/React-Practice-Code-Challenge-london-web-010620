@@ -19,7 +19,6 @@ To get you going, we've got a backend just chock full of sushi just waiting to b
 1. Navigate to `sushi-saga-client` and run `json-server --watch db.json`
 2. Navigate to `http://localhost:3000/sushis` to confirm delivery of sushi!
 
-
 ### Client
 
 Just as all good sushi needs a firm base of delicious rice, we've given you quite a bit of code to start off your frontend!
